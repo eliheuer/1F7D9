@@ -1,0 +1,185 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="2048" height="2048">
+	<rect transform="matrix(1 0 -0 -1 0 2048)" x="-2" y="-2" width="2050" height="2050"/>
+	<path fill="white" transform="matrix(0.766044 -0.642788 -0.642788 -0.766044 897.785 2466.64)" d="M1024 1792L1689 641L1024 1792Z"/>
+	<path fill="none" stroke="white" stroke-width="6" stroke-miterlimit="5" transform="matrix(0.766044 -0.642788 -0.642788 -0.766044 897.785 2466.64)" d="M1024 1792L1689 641L1024 1792Z"/>
+	<path fill="white" transform="matrix(0.766044 -0.642788 -0.642788 -0.766044 897.785 2466.64)" d="M1689 641L359 641L1689 641Z"/>
+	<path fill="none" stroke="white" stroke-width="6" stroke-miterlimit="5" transform="matrix(0.766044 -0.642788 -0.642788 -0.766044 897.785 2466.64)" d="M1689 641L359 641L1689 641Z"/>
+	<path fill="white" transform="matrix(0.766044 -0.642788 -0.642788 -0.766044 897.785 2466.64)" d="M359 641L1024 1792L359 641Z"/>
+	<path fill="none" stroke="white" stroke-width="6" stroke-miterlimit="5" transform="matrix(0.766044 -0.642788 -0.642788 -0.766044 897.785 2466.64)" d="M359 641L1024 1792L359 641Z"/>
+	<ellipse transform="matrix(0.766044 -0.642788 -0.642788 -0.766044 897.785 2466.64)" cx="1025" cy="1792" rx="19" ry="19"/>
+	<ellipse fill="none" stroke="white" stroke-width="6" stroke-miterlimit="5" transform="matrix(0.766044 -0.642788 -0.642788 -0.766044 897.785 2466.64)" cx="1025" cy="1792" rx="19" ry="19"/>
+	<ellipse transform="matrix(0.766044 -0.642788 -0.642788 -0.766044 897.785 2466.64)" cx="1689" cy="641" rx="19" ry="19"/>
+	<ellipse fill="none" stroke="white" stroke-width="6" stroke-miterlimit="5" transform="matrix(0.766044 -0.642788 -0.642788 -0.766044 897.785 2466.64)" cx="1689" cy="641" rx="19" ry="19"/>
+	<ellipse transform="matrix(0.766044 -0.642788 -0.642788 -0.766044 897.785 2466.64)" cx="359" cy="641" rx="19" ry="19"/>
+	<ellipse fill="none" stroke="white" stroke-width="6" stroke-miterlimit="5" transform="matrix(0.766044 -0.642788 -0.642788 -0.766044 897.785 2466.64)" cx="359" cy="641" rx="19" ry="19"/>
+	<path fill="white" transform="matrix(0.173648 -0.984808 -0.984808 -0.173648 1854.63 2210.26)" d="M1024 1792L1689 641L1024 1792Z"/>
+	<path fill="none" stroke="white" stroke-width="6" stroke-miterlimit="5" transform="matrix(0.173648 -0.984808 -0.984808 -0.173648 1854.63 2210.26)" d="M1024 1792L1689 641L1024 1792Z"/>
+	<path fill="white" transform="matrix(0.173648 -0.984808 -0.984808 -0.173648 1854.63 2210.26)" d="M1689 641L359 641L1689 641Z"/>
+	<path fill="none" stroke="white" stroke-width="6" stroke-miterlimit="5" transform="matrix(0.173648 -0.984808 -0.984808 -0.173648 1854.63 2210.26)" d="M1689 641L359 641L1689 641Z"/>
+	<path fill="white" transform="matrix(0.173648 -0.984808 -0.984808 -0.173648 1854.63 2210.26)" d="M359 641L1024 1792L359 641Z"/>
+	<path fill="none" stroke="white" stroke-width="6" stroke-miterlimit="5" transform="matrix(0.173648 -0.984808 -0.984808 -0.173648 1854.63 2210.26)" d="M359 641L1024 1792L359 641Z"/>
+	<ellipse transform="matrix(0.173648 -0.984808 -0.984808 -0.173648 1854.63 2210.26)" cx="1025" cy="1792" rx="19" ry="19"/>
+	<ellipse fill="none" stroke="white" stroke-width="6" stroke-miterlimit="5" transform="matrix(0.173648 -0.984808 -0.984808 -0.173648 1854.63 2210.26)" cx="1025" cy="1792" rx="19" ry="19"/>
+	<ellipse transform="matrix(0.173648 -0.984808 -0.984808 -0.173648 1854.63 2210.26)" cx="1689" cy="641" rx="19" ry="19"/>
+	<ellipse fill="none" stroke="white" stroke-width="6" stroke-miterlimit="5" transform="matrix(0.173648 -0.984808 -0.984808 -0.173648 1854.63 2210.26)" cx="1689" cy="641" rx="19" ry="19"/>
+	<ellipse transform="matrix(0.173648 -0.984808 -0.984808 -0.173648 1854.63 2210.26)" cx="359" cy="641" rx="19" ry="19"/>
+	<ellipse fill="none" stroke="white" stroke-width="6" stroke-miterlimit="5" transform="matrix(0.173648 -0.984808 -0.984808 -0.173648 1854.63 2210.26)" cx="359" cy="641" rx="19" ry="19"/>
+	<path fill="white" transform="matrix(-0.5 -0.866025 -0.866025 0.5 2422.81 1398.81)" d="M1024 1792L1689 641L1024 1792Z"/>
+	<path fill="none" stroke="white" stroke-width="6" stroke-miterlimit="5" transform="matrix(-0.5 -0.866025 -0.866025 0.5 2422.81 1398.81)" d="M1024 1792L1689 641L1024 1792Z"/>
+	<path fill="white" transform="matrix(-0.5 -0.866025 -0.866025 0.5 2422.81 1398.81)" d="M1689 641L359 641L1689 641Z"/>
+	<path fill="none" stroke="white" stroke-width="6" stroke-miterlimit="5" transform="matrix(-0.5 -0.866025 -0.866025 0.5 2422.81 1398.81)" d="M1689 641L359 641L1689 641Z"/>
+	<path fill="white" transform="matrix(-0.5 -0.866025 -0.866025 0.5 2422.81 1398.81)" d="M359 641L1024 1792L359 641Z"/>
+	<path fill="none" stroke="white" stroke-width="6" stroke-miterlimit="5" transform="matrix(-0.5 -0.866025 -0.866025 0.5 2422.81 1398.81)" d="M359 641L1024 1792L359 641Z"/>
+	<ellipse transform="matrix(-0.5 -0.866025 -0.866025 0.5 2422.81 1398.81)" cx="1025" cy="1792" rx="19" ry="19"/>
+	<ellipse fill="none" stroke="white" stroke-width="6" stroke-miterlimit="5" transform="matrix(-0.5 -0.866025 -0.866025 0.5 2422.81 1398.81)" cx="1025" cy="1792" rx="19" ry="19"/>
+	<ellipse transform="matrix(-0.5 -0.866025 -0.866025 0.5 2422.81 1398.81)" cx="1689" cy="641" rx="19" ry="19"/>
+	<ellipse fill="none" stroke="white" stroke-width="6" stroke-miterlimit="5" transform="matrix(-0.5 -0.866025 -0.866025 0.5 2422.81 1398.81)" cx="1689" cy="641" rx="19" ry="19"/>
+	<ellipse transform="matrix(-0.5 -0.866025 -0.866025 0.5 2422.81 1398.81)" cx="359" cy="641" rx="19" ry="19"/>
+	<ellipse fill="none" stroke="white" stroke-width="6" stroke-miterlimit="5" transform="matrix(-0.5 -0.866025 -0.866025 0.5 2422.81 1398.81)" cx="359" cy="641" rx="19" ry="19"/>
+	<ellipse transform="matrix(-0.939692 -0.34202 -0.34202 0.939692 2336.47 411.984)" cx="1195" cy="1495" rx="19" ry="19"/>
+	<ellipse fill="none" stroke="white" stroke-width="6" stroke-miterlimit="5" transform="matrix(-0.939692 -0.34202 -0.34202 0.939692 2336.47 411.984)" cx="1195" cy="1495" rx="19" ry="19"/>
+	<ellipse transform="matrix(-0.939692 -0.34202 -0.34202 0.939692 2336.47 411.984)" cx="1346" cy="640" rx="19" ry="19"/>
+	<ellipse fill="none" stroke="white" stroke-width="6" stroke-miterlimit="5" transform="matrix(-0.939692 -0.34202 -0.34202 0.939692 2336.47 411.984)" cx="1346" cy="640" rx="19" ry="19"/>
+	<ellipse transform="matrix(-0.939692 -0.34202 -0.34202 0.939692 2336.47 411.984)" cx="530" cy="937" rx="19" ry="19"/>
+	<ellipse fill="none" stroke="white" stroke-width="6" stroke-miterlimit="5" transform="matrix(-0.939692 -0.34202 -0.34202 0.939692 2336.47 411.984)" cx="530" cy="937" rx="19" ry="19"/>
+	<ellipse transform="matrix(-0.939692 0.34202 0.34202 0.939692 1636.02 -288.473)" cx="1195" cy="1495" rx="19" ry="19"/>
+	<ellipse fill="none" stroke="white" stroke-width="6" stroke-miterlimit="5" transform="matrix(-0.939692 0.34202 0.34202 0.939692 1636.02 -288.473)" cx="1195" cy="1495" rx="19" ry="19"/>
+	<ellipse transform="matrix(-0.939692 0.34202 0.34202 0.939692 1636.02 -288.473)" cx="1346" cy="640" rx="19" ry="19"/>
+	<ellipse fill="none" stroke="white" stroke-width="6" stroke-miterlimit="5" transform="matrix(-0.939692 0.34202 0.34202 0.939692 1636.02 -288.473)" cx="1346" cy="640" rx="19" ry="19"/>
+	<ellipse transform="matrix(-0.939692 0.34202 0.34202 0.939692 1636.02 -288.473)" cx="530" cy="937" rx="19" ry="19"/>
+	<ellipse fill="none" stroke="white" stroke-width="6" stroke-miterlimit="5" transform="matrix(-0.939692 0.34202 0.34202 0.939692 1636.02 -288.473)" cx="530" cy="937" rx="19" ry="19"/>
+	<ellipse transform="matrix(-0.5 0.866025 0.866025 0.5 649.19 -374.81)" cx="1195" cy="1495" rx="19" ry="19"/>
+	<ellipse fill="none" stroke="white" stroke-width="6" stroke-miterlimit="5" transform="matrix(-0.5 0.866025 0.866025 0.5 649.19 -374.81)" cx="1195" cy="1495" rx="19" ry="19"/>
+	<ellipse transform="matrix(-0.5 0.866025 0.866025 0.5 649.19 -374.81)" cx="1346" cy="640" rx="19" ry="19"/>
+	<ellipse fill="none" stroke="white" stroke-width="6" stroke-miterlimit="5" transform="matrix(-0.5 0.866025 0.866025 0.5 649.19 -374.81)" cx="1346" cy="640" rx="19" ry="19"/>
+	<ellipse transform="matrix(-0.5 0.866025 0.866025 0.5 649.19 -374.81)" cx="530" cy="937" rx="19" ry="19"/>
+	<ellipse fill="none" stroke="white" stroke-width="6" stroke-miterlimit="5" transform="matrix(-0.5 0.866025 0.866025 0.5 649.19 -374.81)" cx="530" cy="937" rx="19" ry="19"/>
+	<path fill="white" transform="matrix(0.173648 0.984808 0.984808 -0.173648 -162.258 193.373)" d="M1024 1434L1379 819L1024 1434Z"/>
+	<path fill="none" stroke="white" stroke-width="6" stroke-miterlimit="5" transform="matrix(0.173648 0.984808 0.984808 -0.173648 -162.258 193.373)" d="M1024 1434L1379 819L1024 1434Z"/>
+	<path fill="white" transform="matrix(0.173648 0.984808 0.984808 -0.173648 -162.258 193.373)" d="M1379 819L669 819L1379 819Z"/>
+	<path fill="none" stroke="white" stroke-width="6" stroke-miterlimit="5" transform="matrix(0.173648 0.984808 0.984808 -0.173648 -162.258 193.373)" d="M1379 819L669 819L1379 819Z"/>
+	<path fill="white" transform="matrix(0.173648 0.984808 0.984808 -0.173648 -162.258 193.373)" d="M669 819L1024 1434L669 819Z"/>
+	<path fill="none" stroke="white" stroke-width="6" stroke-miterlimit="5" transform="matrix(0.173648 0.984808 0.984808 -0.173648 -162.258 193.373)" d="M669 819L1024 1434L669 819Z"/>
+	<ellipse transform="matrix(0.173648 0.984808 0.984808 -0.173648 -162.258 193.373)" cx="1025" cy="1434" rx="19" ry="19"/>
+	<ellipse fill="none" stroke="white" stroke-width="6" stroke-miterlimit="5" transform="matrix(0.173648 0.984808 0.984808 -0.173648 -162.258 193.373)" cx="1025" cy="1434" rx="19" ry="19"/>
+	<ellipse transform="matrix(0.173648 0.984808 0.984808 -0.173648 -162.258 193.373)" cx="1379" cy="819" rx="19" ry="19"/>
+	<ellipse fill="none" stroke="white" stroke-width="6" stroke-miterlimit="5" transform="matrix(0.173648 0.984808 0.984808 -0.173648 -162.258 193.373)" cx="1379" cy="819" rx="19" ry="19"/>
+	<ellipse transform="matrix(0.173648 0.984808 0.984808 -0.173648 -162.258 193.373)" cx="669" cy="819" rx="19" ry="19"/>
+	<ellipse fill="none" stroke="white" stroke-width="6" stroke-miterlimit="5" transform="matrix(0.173648 0.984808 0.984808 -0.173648 -162.258 193.373)" cx="669" cy="819" rx="19" ry="19"/>
+	<path fill="white" transform="matrix(0.766044 0.642788 0.642788 -0.766044 -418.644 1150.22)" d="M1024 1434L1379 819L1024 1434Z"/>
+	<path fill="none" stroke="white" stroke-width="6" stroke-miterlimit="5" transform="matrix(0.766044 0.642788 0.642788 -0.766044 -418.644 1150.22)" d="M1024 1434L1379 819L1024 1434Z"/>
+	<path fill="white" transform="matrix(0.766044 0.642788 0.642788 -0.766044 -418.644 1150.22)" d="M1379 819L669 819L1379 819Z"/>
+	<path fill="none" stroke="white" stroke-width="6" stroke-miterlimit="5" transform="matrix(0.766044 0.642788 0.642788 -0.766044 -418.644 1150.22)" d="M1379 819L669 819L1379 819Z"/>
+	<path fill="white" transform="matrix(0.766044 0.642788 0.642788 -0.766044 -418.644 1150.22)" d="M669 819L1024 1434L669 819Z"/>
+	<path fill="none" stroke="white" stroke-width="6" stroke-miterlimit="5" transform="matrix(0.766044 0.642788 0.642788 -0.766044 -418.644 1150.22)" d="M669 819L1024 1434L669 819Z"/>
+	<ellipse transform="matrix(0.766044 0.642788 0.642788 -0.766044 -418.644 1150.22)" cx="1025" cy="1434" rx="19" ry="19"/>
+	<ellipse fill="none" stroke="white" stroke-width="6" stroke-miterlimit="5" transform="matrix(0.766044 0.642788 0.642788 -0.766044 -418.644 1150.22)" cx="1025" cy="1434" rx="19" ry="19"/>
+	<ellipse transform="matrix(0.766044 0.642788 0.642788 -0.766044 -418.644 1150.22)" cx="1379" cy="819" rx="19" ry="19"/>
+	<ellipse fill="none" stroke="white" stroke-width="6" stroke-miterlimit="5" transform="matrix(0.766044 0.642788 0.642788 -0.766044 -418.644 1150.22)" cx="1379" cy="819" rx="19" ry="19"/>
+	<ellipse transform="matrix(0.766044 0.642788 0.642788 -0.766044 -418.644 1150.22)" cx="669" cy="819" rx="19" ry="19"/>
+	<ellipse fill="none" stroke="white" stroke-width="6" stroke-miterlimit="5" transform="matrix(0.766044 0.642788 0.642788 -0.766044 -418.644 1150.22)" cx="669" cy="819" rx="19" ry="19"/>
+	<path fill="white" transform="matrix(1 8.9407e-08 8.9407e-08 -1 0.000305176 2048)" d="M1024 1434L1379 819L1024 1434Z"/>
+	<path fill="none" stroke="white" stroke-width="6" stroke-miterlimit="5" transform="matrix(1 8.9407e-08 8.9407e-08 -1 0.000305176 2048)" d="M1024 1434L1379 819L1024 1434Z"/>
+	<path fill="none" stroke="white" stroke-width="6" stroke-miterlimit="5" transform="matrix(1 8.9407e-08 8.9407e-08 -1 0.000305176 2048)" d="M1379 819L669 819L1379 819Z"/>
+	<path fill="white" transform="matrix(1 8.9407e-08 8.9407e-08 -1 0.000305176 2048)" d="M669 819L1024 1434L669 819Z"/>
+	<path fill="none" stroke="white" stroke-width="6" stroke-miterlimit="5" transform="matrix(1 8.9407e-08 8.9407e-08 -1 0.000305176 2048)" d="M669 819L1024 1434L669 819Z"/>
+	<ellipse transform="matrix(1 8.9407e-08 8.9407e-08 -1 0.000305176 2048)" cx="1025" cy="1434" rx="19" ry="19"/>
+	<ellipse fill="none" stroke="white" stroke-width="6" stroke-miterlimit="5" transform="matrix(1 8.9407e-08 8.9407e-08 -1 0.000305176 2048)" cx="1025" cy="1434" rx="19" ry="19"/>
+	<ellipse transform="matrix(1 8.9407e-08 8.9407e-08 -1 0.000305176 2048)" cx="1379" cy="819" rx="19" ry="19"/>
+	<ellipse fill="none" stroke="white" stroke-width="6" stroke-miterlimit="5" transform="matrix(1 8.9407e-08 8.9407e-08 -1 0.000305176 2048)" cx="1379" cy="819" rx="19" ry="19"/>
+	<ellipse transform="matrix(1 8.9407e-08 8.9407e-08 -1 0.000305176 2048)" cx="669" cy="819" rx="19" ry="19"/>
+	<ellipse fill="none" stroke="white" stroke-width="6" stroke-miterlimit="5" transform="matrix(1 8.9407e-08 8.9407e-08 -1 0.000305176 2048)" cx="669" cy="819" rx="19" ry="19"/>
+	<ellipse transform="matrix(0.766044 -0.642787 -0.642787 -0.766044 897.785 2466.64)" cx="1115" cy="1276" rx="19" ry="19"/>
+	<ellipse fill="none" stroke="white" stroke-width="6" stroke-miterlimit="5" transform="matrix(0.766044 -0.642787 -0.642787 -0.766044 897.785 2466.64)" cx="1115" cy="1276" rx="19" ry="19"/>
+	<ellipse transform="matrix(0.766044 -0.642787 -0.642787 -0.766044 897.785 2466.64)" cx="1196" cy="819" rx="19" ry="19"/>
+	<ellipse fill="none" stroke="white" stroke-width="6" stroke-miterlimit="5" transform="matrix(0.766044 -0.642787 -0.642787 -0.766044 897.785 2466.64)" cx="1196" cy="819" rx="19" ry="19"/>
+	<ellipse transform="matrix(0.766044 -0.642787 -0.642787 -0.766044 897.785 2466.64)" cx="760" cy="978" rx="19" ry="19"/>
+	<ellipse fill="none" stroke="white" stroke-width="6" stroke-miterlimit="5" transform="matrix(0.766044 -0.642787 -0.642787 -0.766044 897.785 2466.64)" cx="760" cy="978" rx="19" ry="19"/>
+	<ellipse transform="matrix(0.173648 -0.984807 -0.984807 -0.173648 1854.63 2210.26)" cx="1115" cy="1276" rx="19" ry="19"/>
+	<ellipse fill="none" stroke="white" stroke-width="6" stroke-miterlimit="5" transform="matrix(0.173648 -0.984807 -0.984807 -0.173648 1854.63 2210.26)" cx="1115" cy="1276" rx="19" ry="19"/>
+	<ellipse transform="matrix(0.173648 -0.984807 -0.984807 -0.173648 1854.63 2210.26)" cx="1196" cy="819" rx="19" ry="19"/>
+	<ellipse fill="none" stroke="white" stroke-width="6" stroke-miterlimit="5" transform="matrix(0.173648 -0.984807 -0.984807 -0.173648 1854.63 2210.26)" cx="1196" cy="819" rx="19" ry="19"/>
+	<ellipse transform="matrix(0.173648 -0.984807 -0.984807 -0.173648 1854.63 2210.26)" cx="760" cy="978" rx="19" ry="19"/>
+	<ellipse fill="none" stroke="white" stroke-width="6" stroke-miterlimit="5" transform="matrix(0.173648 -0.984807 -0.984807 -0.173648 1854.63 2210.26)" cx="760" cy="978" rx="19" ry="19"/>
+	<ellipse transform="matrix(-0.5 -0.866025 -0.866025 0.5 2422.81 1398.81)" cx="1115" cy="1276" rx="19" ry="19"/>
+	<ellipse fill="none" stroke="white" stroke-width="6" stroke-miterlimit="5" transform="matrix(-0.5 -0.866025 -0.866025 0.5 2422.81 1398.81)" cx="1115" cy="1276" rx="19" ry="19"/>
+	<ellipse transform="matrix(-0.5 -0.866025 -0.866025 0.5 2422.81 1398.81)" cx="1196" cy="819" rx="19" ry="19"/>
+	<ellipse fill="none" stroke="white" stroke-width="6" stroke-miterlimit="5" transform="matrix(-0.5 -0.866025 -0.866025 0.5 2422.81 1398.81)" cx="1196" cy="819" rx="19" ry="19"/>
+	<ellipse transform="matrix(-0.5 -0.866025 -0.866025 0.5 2422.81 1398.81)" cx="760" cy="978" rx="19" ry="19"/>
+	<ellipse fill="none" stroke="white" stroke-width="6" stroke-miterlimit="5" transform="matrix(-0.5 -0.866025 -0.866025 0.5 2422.81 1398.81)" cx="760" cy="978" rx="19" ry="19"/>
+	<path fill="white" transform="matrix(-0.939692 -0.34202 -0.34202 0.939692 2336.47 411.984)" d="M1024 1243L1214 915L1024 1243Z"/>
+	<path fill="none" stroke="white" stroke-width="6" stroke-miterlimit="5" transform="matrix(-0.939692 -0.34202 -0.34202 0.939692 2336.47 411.984)" d="M1024 1243L1214 915L1024 1243Z"/>
+	<path fill="white" transform="matrix(-0.939692 -0.34202 -0.34202 0.939692 2336.47 411.984)" d="M1214 915L834 915L1214 915Z"/>
+	<path fill="none" stroke="white" stroke-width="6" stroke-miterlimit="5" transform="matrix(-0.939692 -0.34202 -0.34202 0.939692 2336.47 411.984)" d="M1214 915L834 915L1214 915Z"/>
+	<path fill="white" transform="matrix(-0.939692 -0.34202 -0.34202 0.939692 2336.47 411.984)" d="M834 915L1024 1243L834 915Z"/>
+	<path fill="none" stroke="white" stroke-width="6" stroke-miterlimit="5" transform="matrix(-0.939692 -0.34202 -0.34202 0.939692 2336.47 411.984)" d="M834 915L1024 1243L834 915Z"/>
+	<ellipse transform="matrix(-0.939692 -0.34202 -0.34202 0.939692 2336.47 411.984)" cx="1025" cy="1243" rx="19" ry="19"/>
+	<ellipse fill="none" stroke="white" stroke-width="6" stroke-miterlimit="5" transform="matrix(-0.939692 -0.34202 -0.34202 0.939692 2336.47 411.984)" cx="1025" cy="1243" rx="19" ry="19"/>
+	<ellipse transform="matrix(-0.939692 -0.34202 -0.34202 0.939692 2336.47 411.984)" cx="1214" cy="915" rx="19" ry="19"/>
+	<ellipse fill="none" stroke="white" stroke-width="6" stroke-miterlimit="5" transform="matrix(-0.939692 -0.34202 -0.34202 0.939692 2336.47 411.984)" cx="1214" cy="915" rx="19" ry="19"/>
+	<ellipse transform="matrix(-0.939692 -0.34202 -0.34202 0.939692 2336.47 411.984)" cx="834" cy="915" rx="19" ry="19"/>
+	<ellipse fill="none" stroke="white" stroke-width="6" stroke-miterlimit="5" transform="matrix(-0.939692 -0.34202 -0.34202 0.939692 2336.47 411.984)" cx="834" cy="915" rx="19" ry="19"/>
+	<path fill="white" transform="matrix(-0.939692 0.34202 0.34202 0.939692 1636.02 -288.473)" d="M1024 1243L1214 915L1024 1243Z"/>
+	<path fill="none" stroke="white" stroke-width="6" stroke-miterlimit="5" transform="matrix(-0.939692 0.34202 0.34202 0.939692 1636.02 -288.473)" d="M1024 1243L1214 915L1024 1243Z"/>
+	<path fill="white" transform="matrix(-0.939692 0.34202 0.34202 0.939692 1636.02 -288.473)" d="M1214 915L834 915L1214 915Z"/>
+	<path fill="none" stroke="white" stroke-width="6" stroke-miterlimit="5" transform="matrix(-0.939692 0.34202 0.34202 0.939692 1636.02 -288.473)" d="M1214 915L834 915L1214 915Z"/>
+	<path fill="white" transform="matrix(-0.939692 0.34202 0.34202 0.939692 1636.02 -288.473)" d="M834 915L1024 1243L834 915Z"/>
+	<path fill="none" stroke="white" stroke-width="6" stroke-miterlimit="5" transform="matrix(-0.939692 0.34202 0.34202 0.939692 1636.02 -288.473)" d="M834 915L1024 1243L834 915Z"/>
+	<ellipse transform="matrix(-0.939692 0.34202 0.34202 0.939692 1636.02 -288.473)" cx="1025" cy="1243" rx="19" ry="19"/>
+	<ellipse fill="none" stroke="white" stroke-width="6" stroke-miterlimit="5" transform="matrix(-0.939692 0.34202 0.34202 0.939692 1636.02 -288.473)" cx="1025" cy="1243" rx="19" ry="19"/>
+	<ellipse transform="matrix(-0.939692 0.34202 0.34202 0.939692 1636.02 -288.473)" cx="1214" cy="915" rx="19" ry="19"/>
+	<ellipse fill="none" stroke="white" stroke-width="6" stroke-miterlimit="5" transform="matrix(-0.939692 0.34202 0.34202 0.939692 1636.02 -288.473)" cx="1214" cy="915" rx="19" ry="19"/>
+	<ellipse transform="matrix(-0.939692 0.34202 0.34202 0.939692 1636.02 -288.473)" cx="834" cy="915" rx="19" ry="19"/>
+	<ellipse fill="none" stroke="white" stroke-width="6" stroke-miterlimit="5" transform="matrix(-0.939692 0.34202 0.34202 0.939692 1636.02 -288.473)" cx="834" cy="915" rx="19" ry="19"/>
+	<path fill="white" transform="matrix(-0.5 0.866025 0.866025 0.5 649.191 -374.809)" d="M1024 1243L1214 915L1024 1243Z"/>
+	<path fill="none" stroke="white" stroke-width="6" stroke-miterlimit="5" transform="matrix(-0.5 0.866025 0.866025 0.5 649.191 -374.809)" d="M1024 1243L1214 915L1024 1243Z"/>
+	<path fill="white" transform="matrix(-0.5 0.866025 0.866025 0.5 649.191 -374.809)" d="M1214 915L834 915L1214 915Z"/>
+	<path fill="none" stroke="white" stroke-width="6" stroke-miterlimit="5" transform="matrix(-0.5 0.866025 0.866025 0.5 649.191 -374.809)" d="M1214 915L834 915L1214 915Z"/>
+	<path fill="white" transform="matrix(-0.5 0.866025 0.866025 0.5 649.191 -374.809)" d="M834 915L1024 1243L834 915Z"/>
+	<path fill="none" stroke="white" stroke-width="6" stroke-miterlimit="5" transform="matrix(-0.5 0.866025 0.866025 0.5 649.191 -374.809)" d="M834 915L1024 1243L834 915Z"/>
+	<ellipse transform="matrix(-0.5 0.866025 0.866025 0.5 649.191 -374.809)" cx="1025" cy="1243" rx="19" ry="19"/>
+	<ellipse fill="none" stroke="white" stroke-width="6" stroke-miterlimit="5" transform="matrix(-0.5 0.866025 0.866025 0.5 649.191 -374.809)" cx="1025" cy="1243" rx="19" ry="19"/>
+	<ellipse transform="matrix(-0.5 0.866025 0.866025 0.5 649.191 -374.809)" cx="1214" cy="915" rx="19" ry="19"/>
+	<ellipse fill="none" stroke="white" stroke-width="6" stroke-miterlimit="5" transform="matrix(-0.5 0.866025 0.866025 0.5 649.191 -374.809)" cx="1214" cy="915" rx="19" ry="19"/>
+	<ellipse transform="matrix(-0.5 0.866025 0.866025 0.5 649.191 -374.809)" cx="834" cy="915" rx="19" ry="19"/>
+	<ellipse fill="none" stroke="white" stroke-width="6" stroke-miterlimit="5" transform="matrix(-0.5 0.866025 0.866025 0.5 649.191 -374.809)" cx="834" cy="915" rx="19" ry="19"/>
+	<ellipse transform="matrix(0.173648 0.984807 0.984807 -0.173648 -162.258 193.373)" cx="1073" cy="1158" rx="19" ry="19"/>
+	<ellipse fill="none" stroke="white" stroke-width="6" stroke-miterlimit="5" transform="matrix(0.173648 0.984807 0.984807 -0.173648 -162.258 193.373)" cx="1073" cy="1158" rx="19" ry="19"/>
+	<ellipse transform="matrix(0.173648 0.984807 0.984807 -0.173648 -162.258 193.373)" cx="1116" cy="915" rx="19" ry="19"/>
+	<ellipse fill="none" stroke="white" stroke-width="6" stroke-miterlimit="5" transform="matrix(0.173648 0.984807 0.984807 -0.173648 -162.258 193.373)" cx="1116" cy="915" rx="19" ry="19"/>
+	<ellipse transform="matrix(0.173648 0.984807 0.984807 -0.173648 -162.258 193.373)" cx="883" cy="999" rx="19" ry="19"/>
+	<ellipse fill="none" stroke="white" stroke-width="6" stroke-miterlimit="5" transform="matrix(0.173648 0.984807 0.984807 -0.173648 -162.258 193.373)" cx="883" cy="999" rx="19" ry="19"/>
+	<ellipse transform="matrix(0.766044 0.642788 0.642788 -0.766044 -418.643 1150.22)" cx="1073" cy="1158" rx="19" ry="19"/>
+	<ellipse fill="none" stroke="white" stroke-width="6" stroke-miterlimit="5" transform="matrix(0.766044 0.642788 0.642788 -0.766044 -418.643 1150.22)" cx="1073" cy="1158" rx="19" ry="19"/>
+	<ellipse transform="matrix(0.766044 0.642788 0.642788 -0.766044 -418.643 1150.22)" cx="1116" cy="915" rx="19" ry="19"/>
+	<ellipse fill="none" stroke="white" stroke-width="6" stroke-miterlimit="5" transform="matrix(0.766044 0.642788 0.642788 -0.766044 -418.643 1150.22)" cx="1116" cy="915" rx="19" ry="19"/>
+	<ellipse transform="matrix(0.766044 0.642788 0.642788 -0.766044 -418.643 1150.22)" cx="883" cy="999" rx="19" ry="19"/>
+	<ellipse fill="none" stroke="white" stroke-width="6" stroke-miterlimit="5" transform="matrix(0.766044 0.642788 0.642788 -0.766044 -418.643 1150.22)" cx="883" cy="999" rx="19" ry="19"/>
+	<ellipse transform="matrix(0.999999 2.98023e-07 2.98023e-07 -0.999999 0.000244141 2048)" cx="1073" cy="1158" rx="19" ry="19"/>
+	<ellipse fill="none" stroke="white" stroke-width="6" stroke-miterlimit="5" transform="matrix(0.999999 2.98023e-07 2.98023e-07 -0.999999 0.000244141 2048)" cx="1073" cy="1158" rx="19" ry="19"/>
+	<ellipse transform="matrix(0.999999 2.98023e-07 2.98023e-07 -0.999999 0.000244141 2048)" cx="1116" cy="915" rx="19" ry="19"/>
+	<ellipse fill="none" stroke="white" stroke-width="6" stroke-miterlimit="5" transform="matrix(0.999999 2.98023e-07 2.98023e-07 -0.999999 0.000244141 2048)" cx="1116" cy="915" rx="19" ry="19"/>
+	<ellipse transform="matrix(0.999999 2.98023e-07 2.98023e-07 -0.999999 0.000244141 2048)" cx="883" cy="999" rx="19" ry="19"/>
+	<ellipse fill="none" stroke="white" stroke-width="6" stroke-miterlimit="5" transform="matrix(0.999999 2.98023e-07 2.98023e-07 -0.999999 0.000244141 2048)" cx="883" cy="999" rx="19" ry="19"/>
+	<ellipse transform="matrix(0.766044 -0.642787 -0.642787 -0.766044 897.785 2466.64)" cx="1025" cy="1140" rx="19" ry="19"/>
+	<ellipse fill="none" stroke="white" stroke-width="6" stroke-miterlimit="5" transform="matrix(0.766044 -0.642787 -0.642787 -0.766044 897.785 2466.64)" cx="1025" cy="1140" rx="19" ry="19"/>
+	<ellipse transform="matrix(0.766044 -0.642787 -0.642787 -0.766044 897.785 2466.64)" cx="1124" cy="966" rx="19" ry="19"/>
+	<ellipse fill="none" stroke="white" stroke-width="6" stroke-miterlimit="5" transform="matrix(0.766044 -0.642787 -0.642787 -0.766044 897.785 2466.64)" cx="1124" cy="966" rx="19" ry="19"/>
+	<ellipse transform="matrix(0.766044 -0.642787 -0.642787 -0.766044 897.785 2466.64)" cx="924" cy="966" rx="19" ry="19"/>
+	<ellipse fill="none" stroke="white" stroke-width="6" stroke-miterlimit="5" transform="matrix(0.766044 -0.642787 -0.642787 -0.766044 897.785 2466.64)" cx="924" cy="966" rx="19" ry="19"/>
+	<ellipse transform="matrix(0.173648 -0.984807 -0.984807 -0.173648 1854.63 2210.26)" cx="1025" cy="1140" rx="19" ry="19"/>
+	<ellipse fill="none" stroke="white" stroke-width="6" stroke-miterlimit="5" transform="matrix(0.173648 -0.984807 -0.984807 -0.173648 1854.63 2210.26)" cx="1025" cy="1140" rx="19" ry="19"/>
+	<ellipse transform="matrix(0.173648 -0.984807 -0.984807 -0.173648 1854.63 2210.26)" cx="1124" cy="966" rx="19" ry="19"/>
+	<ellipse fill="none" stroke="white" stroke-width="6" stroke-miterlimit="5" transform="matrix(0.173648 -0.984807 -0.984807 -0.173648 1854.63 2210.26)" cx="1124" cy="966" rx="19" ry="19"/>
+	<ellipse transform="matrix(0.173648 -0.984807 -0.984807 -0.173648 1854.63 2210.26)" cx="924" cy="966" rx="19" ry="19"/>
+	<ellipse fill="none" stroke="white" stroke-width="6" stroke-miterlimit="5" transform="matrix(0.173648 -0.984807 -0.984807 -0.173648 1854.63 2210.26)" cx="924" cy="966" rx="19" ry="19"/>
+	<ellipse transform="matrix(-0.499999 -0.866025 -0.866025 0.499999 2422.81 1398.81)" cx="1025" cy="1140" rx="19" ry="19"/>
+	<ellipse fill="none" stroke="white" stroke-width="6" stroke-miterlimit="5" transform="matrix(-0.499999 -0.866025 -0.866025 0.499999 2422.81 1398.81)" cx="1025" cy="1140" rx="19" ry="19"/>
+	<ellipse transform="matrix(-0.499999 -0.866025 -0.866025 0.499999 2422.81 1398.81)" cx="1124" cy="966" rx="19" ry="19"/>
+	<ellipse fill="none" stroke="white" stroke-width="6" stroke-miterlimit="5" transform="matrix(-0.499999 -0.866025 -0.866025 0.499999 2422.81 1398.81)" cx="1124" cy="966" rx="19" ry="19"/>
+	<ellipse transform="matrix(-0.499999 -0.866025 -0.866025 0.499999 2422.81 1398.81)" cx="924" cy="966" rx="19" ry="19"/>
+	<ellipse fill="none" stroke="white" stroke-width="6" stroke-miterlimit="5" transform="matrix(-0.499999 -0.866025 -0.866025 0.499999 2422.81 1398.81)" cx="924" cy="966" rx="19" ry="19"/>
+	<ellipse transform="matrix(-0.499999 -0.866025 -0.866025 0.499999 2422.81 1398.81)" cx="1024" cy="1024" rx="19" ry="19"/>
+	<ellipse fill="none" stroke="white" stroke-width="6" stroke-miterlimit="5" transform="matrix(-0.499999 -0.866025 -0.866025 0.499999 2422.81 1398.81)" cx="1024" cy="1024" rx="19" ry="19"/>
+</svg>
