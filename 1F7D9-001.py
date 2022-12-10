@@ -59,7 +59,8 @@ def remap(value, inputMin, inputMax, outputMin, outputMax):
 def draw_background():
     newPage(W, H)
     fill(0)
-    rect(-2, -2, W+2, H+2)
+    stroke(None)
+    rect(0, 0, W, H)
     if GRID_VIEW:
         grid()
     else:

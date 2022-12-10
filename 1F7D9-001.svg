@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8" ?>
 <svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="2048" height="2048">
-	<rect transform="matrix(1 0 -0 -1 0 2048)" x="-2" y="-2" width="2050" height="2050"/>
+	<rect transform="matrix(1 0 -0 -1 0 2048)" width="2048" height="2048"/>
 	<path fill="white" transform="matrix(0.766044 -0.642788 -0.642788 -0.766044 897.785 2466.64)" d="M1024 1792L1689 641L1024 1792Z"/>
 	<path fill="none" stroke="white" stroke-width="6" stroke-miterlimit="5" transform="matrix(0.766044 -0.642788 -0.642788 -0.766044 897.785 2466.64)" d="M1024 1792L1689 641L1024 1792Z"/>
 	<path fill="white" transform="matrix(0.766044 -0.642788 -0.642788 -0.766044 897.785 2466.64)" d="M1689 641L359 641L1689 641Z"/>
